@@ -1,4 +1,4 @@
-const GA_MEASUREMENT_ID = import.meta.env.VITE_GA_MEASUREMENT_ID || 'G-XXXXXXXXXX'
+const GA_MEASUREMENT_ID = 'G-EV9EZ78E4P'
 
 type EventParams = Record<string, string | number | boolean>
 
